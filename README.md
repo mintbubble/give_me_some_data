@@ -5,3 +5,4 @@
 - https://www.logistics1520.com/
 - http://www.patriarchia.ru/
 - http://os.fipi.ru/
+- http://sro.gosnadzor.ru/
