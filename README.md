@@ -6,3 +6,4 @@
 - http://www.patriarchia.ru/
 - http://os.fipi.ru/
 - http://sro.gosnadzor.ru/
+- https://www.sberbank.ru/
