@@ -7,3 +7,4 @@
 - http://os.fipi.ru/
 - http://sro.gosnadzor.ru/
 - https://www.sberbank.ru/
+- https://rkn.gov.ru/
